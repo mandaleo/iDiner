@@ -21,6 +21,7 @@
 		D9186975242A1F6B00B30BE4 /* ItemDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9186974242A1F6B00B30BE4 /* ItemDetail.swift */; };
 		D956959B242B6EE700532467 /* OrderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D956959A242B6EE700532467 /* OrderView.swift */; };
 		D956959D242B717600532467 /* AppView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D956959C242B717600532467 /* AppView.swift */; };
+		D956959F242B74D200532467 /* CheckoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D956959E242B74D200532467 /* CheckoutView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +41,7 @@
 		D9186974242A1F6B00B30BE4 /* ItemDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemDetail.swift; sourceTree = "<group>"; };
 		D956959A242B6EE700532467 /* OrderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderView.swift; sourceTree = "<group>"; };
 		D956959C242B717600532467 /* AppView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppView.swift; sourceTree = "<group>"; };
+		D956959E242B74D200532467 /* CheckoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckoutView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 				D9186954242A0F1600B30BE4 /* AppDelegate.swift */,
 				D9186956242A0F1600B30BE4 /* SceneDelegate.swift */,
 				D9186958242A0F1600B30BE4 /* ContentView.swift */,
+				D956959E242B74D200532467 /* CheckoutView.swift */,
 				D9186972242A16BA00B30BE4 /* ItemRow.swift */,
 				D9186974242A1F6B00B30BE4 /* ItemDetail.swift */,
 				D956959A242B6EE700532467 /* OrderView.swift */,
@@ -188,6 +191,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D918696F242A0FC500B30BE4 /* Order.swift in Sources */,
+				D956959F242B74D200532467 /* CheckoutView.swift in Sources */,
 				D9186955242A0F1600B30BE4 /* AppDelegate.swift in Sources */,
 				D9186957242A0F1600B30BE4 /* SceneDelegate.swift in Sources */,
 				D9186973242A16BA00B30BE4 /* ItemRow.swift in Sources */,
